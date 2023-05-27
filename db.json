@@ -1,0 +1,12 @@
+{
+    "smartphone":[
+        {
+            "name":"smartphone1",
+            "id":1
+        },
+        {
+            "name":"smartphone2",
+            "id":2
+        }
+    ]
+}
