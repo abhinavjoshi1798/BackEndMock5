@@ -1,5 +1,14 @@
 {
     "freelancers":[
-        
+        {
+            "name": "Abhi",
+            "profilePicture": "https://avatars.githubusercontent.com/u/65169622?v=4",
+            "email": "abhinavjoshi1798@gmail.com",
+            "password": "123",
+            "profession": "Web Developer",
+            "skills": "MERN",
+            "hourlyRate": "1000",
+            "id": 1
+            }
     ]
 }
